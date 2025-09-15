@@ -1,0 +1,17 @@
+臺大醫院(總院)_精神部:
+  url: "https://reg.ntuh.gov.tw/WebReg/WebReg/ClinicCurrentLightNo?vHospCode=T0"
+  doctors:
+    - 劉震鐘
+    - 陳宜明
+    - 楊焯翔
+    - 鄭龍驊
+    - 謝明憲
+    - 其他
+
+陽明交大醫院_精神科:
+  url: "https://www.hosp.nycu.edu.tw/component/regist/index.php?component=regist&view=realtime&region=B&option=com_regist"
+  doctors:
+    - 趙又麟
+    - 姚祺君
+    - 黃鈺蘋
+    - 其他
